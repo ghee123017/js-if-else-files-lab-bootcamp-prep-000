@@ -1,6 +1,6 @@
- name;"Joe" var height;"74"
+ name;"Joe" var height=74
 ;
 //Don't worry about this
-module.exports=name:  "Joe",  height:  "74"
+module.exports=name:  "Joe",  height: 74
 };
 
